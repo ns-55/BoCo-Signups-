@@ -18,21 +18,21 @@ At the moment, I have created a fake dataset that models the data we will be col
 
     volunteer_id 
   
-  name_first
+    name_first
   
-  name_last
+    name_last
+
+    email, phone
   
-  email, phone
+    ref_name
   
-  ref_name
+    event_date
   
-  event_date
+    sign_up
   
-  sign_up
+    time_in
   
-  time_in
-  
-  time_out
+    time_out
   
 
 Because this will eventually be real people's contact information, it matters who can see it. The live version will sit behind a login that only coordinators can use, and volunteers will be entering their own information, so they know what is being stored. The names, emails, and phone numbers are there so coordinators can run an event. I have not done any direct analysis, but the data we anticipate collecting will be helpful in the future once BoCo becomes a bigger organization. For now, some simple analysis can be conducted through volunteer_id, which is tied to each volunteer individually. 
