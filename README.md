@@ -40,7 +40,9 @@ Because this will eventually be real people's contact information, it matters wh
 Data Analysis and anticipated results/usage:
 
 The first thing this gives the coordinators is the ability to pull any information they need about their volunteers. Beyond that, it lets them see trends they cannot see today: which days of the week volunteers turn out for, how often people come back, whether sign-ups tend to turn into no-shows, whether people are arriving late and leaving early, and whether one volunteer is referring a lot of the new ones.
+
 Tools:
+
   Excel: .csv file of sample data
   
   Python (pandas): data cleaning
