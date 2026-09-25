@@ -22,7 +22,9 @@ At the moment, I have created a fake dataset that models the data we will be col
   
     name_last
 
-    email, phone
+    email
+    
+    phone
   
     ref_name
   
